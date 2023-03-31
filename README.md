@@ -1,6 +1,6 @@
 # ThiBangLaiXe
 
-Milestone1:
+Milestone1: 31/3 - 21/4
 -	Mô tả yêu cầu chức năng
 
 -	Phác thảo giao diện
