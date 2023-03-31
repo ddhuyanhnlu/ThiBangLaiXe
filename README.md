@@ -1,6 +1,11 @@
 # ThiBangLaiXe
 
-Milestone1: 31/3 - 21/4
+Milestone1: 31/3 -> 21/4: Hoàn thành 2 chức năng: Học lý thuyết, Thi sát hạch:
+- 31/3 -> 7/4: Hoàn thành mô tả yêu cầu chức năng, phác thảo giao diện, tìm hiểu công nghệ
+
+- 
+
+Yêu cầu chung:
 -	Mô tả yêu cầu chức năng
 
 -	Phác thảo giao diện
@@ -9,7 +14,7 @@ Milestone1: 31/3 - 21/4
 
 -	Thiết kế các chức năng cơ bản
 
--	Xác định kết quả đầu ra của từng công việc, và kết quả của milestone
+-	Xác định kết quả đầu ra của từng công việc, và kết quả của milestone:
 
 Tìm kiếm tài liệu, app tham khảo: Lê Phan Xuân Khánh, Nguyễn Trần Bảo Phúc
 
