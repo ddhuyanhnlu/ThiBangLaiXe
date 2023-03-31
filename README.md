@@ -7,12 +7,19 @@ App tham khảo: Ôn Thi GPLX A1,A2
 
 Milestone1:
 -	Mô tả yêu cầu chức năng: https://docs.google.com/document/d/1V_HkkDiAWk4AkgdCi76ZRS4aD1ympUW6KTJKAEVk4Mk/edit#heading=h.rrir4a1mvlfc
+
 -	Phác thảo giao diện
+
 -	Phân công tìm hiểu công nghệ
+
 -	Thiết kế các chức năng cơ bản
+
 -	Xác định kết quả đầu ra của từng công việc, và kết quả của milestone
+
 Các chức năng dự kiến: Phan Tấn Đạt, Nguyễn Hoàng Đạt
+
 Use case diagram: Điêu Đình Huy Anh, Phạm Minh Tân
+
 Tìm kiếm tài liệu, app tham khảo: Lê Phan Xuân Khánh, Nguyễn Trần Bảo Phúc
 
 
