@@ -17,7 +17,7 @@ Phase 2:
 
 -	Task 1: Hoàn thiện use case diagram “Học lý thuyết”
 
--	Task 2: Mô tả các yêu cầu chức năng (SRS)
+-	Task 2: Mô tả các yêu cầu chức năng (SRS) https://docs.google.com/document/d/1rFemHTUlQ4rZRABvl-3X7XzEp048r75oK2eagA_oq-w/edit#
 
 -	Task 3: Phác thảo giao diện
 
