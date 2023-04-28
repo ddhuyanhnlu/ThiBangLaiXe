@@ -1,7 +1,7 @@
 # ThiBangLaiXe
 Milestone1: 
 
-Mục tiêu: Hoàn thành “Trang chủ” và chức năng “Học lý thuyết”
+Mục tiêu: Hoàn thành "Đăng nhập", "Đăng ký", “Trang chủ” và chức năng “Học lý thuyết”
 
 Deadline: 27/4/2023
 
